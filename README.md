@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </div>
 
-Projeto desenvolvido com o objetivo de aprender Spring Cache (Redis), tutorial lecionado por [Giuliana Bezerra](). O 
+Projeto desenvolvido com o objetivo de aprender Spring Cache (Redis), tutorial lecionado por [Giuliana Bezerra](https://github.com/giuliana-bezerra). O 
 tutorial tem como finalidade demonstrar o funcionamento do cache de maneira simples em uma aplicação Spring Boot.
 
 ## Tecnologias
